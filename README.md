@@ -14,6 +14,11 @@ Collection of Python DatsScience Notebooks
 
 ## Contents
 
+### Basic
+
+- [Matplot-plotting](Basic/Matplotlib - plotting.ipynb)
+
 ## Source
 
+- [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 
