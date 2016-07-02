@@ -5,7 +5,7 @@ Collection of Python DatsScience Notebooks
 
 ## Prerequisites
 
-- ipython ==4.2.0
+- ipython==4.2.0
 - matplotlib==1.5.1
 - numpy==1.11.1
 - pandas==0.18.1
@@ -17,8 +17,9 @@ Collection of Python DatsScience Notebooks
 ### Basic
 
 - [Matplot-plotting](Basic/Matplotlib - plotting.ipynb)
+- [Machine-Learning-Intro](Basic/Machine-Learning-Intro.ipynb)
 
 ## Source
 
 - [Scipy Lecture Notes](http://www.scipy-lectures.org/)
-
+- [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
