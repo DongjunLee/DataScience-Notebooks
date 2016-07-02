@@ -18,6 +18,7 @@ Collection of Python DatsScience Notebooks
 
 - [Matplot-plotting](Basic/Matplotlib - plotting.ipynb)
 - [Machine-Learning-Intro](Basic/Machine-Learning-Intro.ipynb)
+- [Basic-Principles](Basic/Basic-Principles.ipynb)
 
 ## Source
 
