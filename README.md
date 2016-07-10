@@ -5,7 +5,7 @@ Collection of Python DatsScience Notebooks
 
 ## Prerequisites
 
-- ipython==4.2.0
+- ipython==5.0.0
 - matplotlib==1.5.1
 - numpy==1.11.1
 - pandas==0.18.1
@@ -19,6 +19,10 @@ Collection of Python DatsScience Notebooks
 - [Matplot-plotting](Basic/Matplotlib - plotting.ipynb)
 - [Machine-Learning-Intro](Basic/Machine-Learning-Intro.ipynb)
 - [Basic-Principles](Basic/Basic-Principles.ipynb)
+
+### Supervised Learning
+
+- [Classification-SVMs](Supervised Learning/Classification-SVMs.ipynb)
 
 ## Source
 
