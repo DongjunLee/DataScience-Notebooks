@@ -23,6 +23,7 @@ Collection of Python DatsScience Notebooks
 ### Supervised Learning
 
 - [Classification-SVMs](Supervised Learning/Classification-SVMs.ipynb)
+- [Regresssion-Forests](Supervised Learning/Regresssion-Forests.ipynb)
 
 ## Source
 
