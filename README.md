@@ -24,6 +24,10 @@ Collection of Python DatsScience Notebooks
 
 - [Classification-SVMs](Supervised Learning/Classification-SVMs.ipynb)
 - [Regresssion-Forests](Supervised Learning/Regresssion-Forests.ipynb)
+	
+### Unsupervised Learning
+
+- [Dimensionality-PCA](Unsupervised Learning/Dimensionality-PCA.ipynb)
 
 ## Source
 
