@@ -29,6 +29,7 @@ Collection of Python DatsScience Notebooks
 
 - [Dimensionality-PCA](Unsupervised Learning/Dimensionality-PCA.ipynb)
 - [Clustering-KMeans](Unsupervised Learning/Clustering-KMeans.ipynb)
+- [Density-GMM](Unsupervised Learning/Density-GMM.ipynb)
 
 ## Source
 
