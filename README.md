@@ -31,6 +31,10 @@ Collection of Python DatsScience Notebooks
 - [Clustering-KMeans](Unsupervised Learning/Clustering-KMeans.ipynb)
 - [Density-GMM](Unsupervised Learning/Density-GMM.ipynb)
 
+### Model Validation
+
+- [Model Validation](Model Validation/Validation.ipynb)
+
 ## Source
 
 - [Scipy Lecture Notes](http://www.scipy-lectures.org/)
