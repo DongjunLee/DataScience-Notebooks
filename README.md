@@ -35,7 +35,12 @@ Collection of Python DatsScience Notebooks
 
 - [Model Validation](Model Validation/Validation.ipynb)
 
+### Exercise
+
+- [Pandas and Heterogeneous Data Modeling - Titanic(Kaggle challenge)](Exercise/Pandas and Heterogeneous Data Modeling - Titanic(Kaggle challenge).ipynb)
+
 ## Source
 
 - [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 - [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
+- [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial)
