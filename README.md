@@ -5,39 +5,40 @@ Collection of Python DatsScience Notebooks
 
 ## Prerequisites
 
-- ipython==5.0.0
-- matplotlib==1.5.1
-- numpy==1.11.1
-- pandas==0.18.1
-- scipy==0.17.1
-- seaborn==0.7.1
+- ipython
+- matplotlib
+- numpy
+- pandas
+- scipy
+- sklearn
+- seaborn
 
 ## Contents
 
 ### Basic
 
-- [Matplot-plotting](Basic/Matplotlib - plotting.ipynb)
+- [Matplot-plotting](Basic/Matplotlib-plotting.ipynb)
 - [Machine-Learning-Intro](Basic/Machine-Learning-Intro.ipynb)
 - [Basic-Principles](Basic/Basic-Principles.ipynb)
 
 ### Supervised Learning
 
-- [Classification-SVMs](Supervised Learning/Classification-SVMs.ipynb)
-- [Regresssion-Forests](Supervised Learning/Regresssion-Forests.ipynb)
+- [Classification-SVMs](Supervised_Learning/Classification-SVMs.ipynb)
+- [Regresssion-Forests](Supervised_Learning/Regresssion-Forests.ipynb)
 	
 ### Unsupervised Learning
 
-- [Dimensionality-PCA](Unsupervised Learning/Dimensionality-PCA.ipynb)
-- [Clustering-KMeans](Unsupervised Learning/Clustering-KMeans.ipynb)
-- [Density-GMM](Unsupervised Learning/Density-GMM.ipynb)
+- [Dimensionality-PCA](Unsupervised_Learning/Dimensionality-PCA.ipynb)
+- [Clustering-KMeans](Unsupervised_Learning/Clustering-KMeans.ipynb)
+- [Density-GMM](Unsupervised_Learning/Density-GMM.ipynb)
 
 ### Model Validation
 
-- [Model Validation](Model Validation/Validation.ipynb)
+- [Model Validation](Model_Validation/Validation.ipynb)
 
 ### Exercise
 
-- [Pandas and Heterogeneous Data Modeling - Titanic(Kaggle challenge)](Exercise/Pandas and Heterogeneous Data Modeling - Titanic(Kaggle challenge).ipynb)
+- [Pandas and Heterogeneous Data Modeling - Titanic(Kaggle challenge)](Exercise/Pandas_and_Heterogeneous_Data_Modeling-Titanic(Kaggle_challenge).ipynb)
 
 ## Source
 
